@@ -1,2 +1,3 @@
 work3
 a bit confusing
+I'm still learning what git is.
