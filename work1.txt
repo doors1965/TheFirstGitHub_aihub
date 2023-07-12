@@ -1,1 +1,2 @@
 What is git?
+Now I think I can handle it a bit.
